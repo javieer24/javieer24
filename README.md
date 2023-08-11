@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python, java, git and a little bit of Django to venture further into this incredible world**
 
-- 📄 Know about my experiences [I am currently a systems engineering student at USAC, learning new things every day about the world of programming, starting with small projects. Learn more about me.](I am currently a systems engineering student at USAC, learning new things every day about the world of programming, starting with small projects. Learn more about me.)
+- 📄 Know about my experiences [I am currently a systems engineering student at USAC, learning new things every day about the world of programming, starting with small projects. Learn more about me.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
