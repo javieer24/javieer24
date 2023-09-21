@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Monjes</h1>
 <h3 align="center">A passionate developer from Guatemala</h3>
 
-- 🌱 I’m currently learning **python, java, git and a little bit of Django to venture further into this incredible world**
+- 🌱 I’m currently learning **python, java, git and a little bit of Django and React to venture further into this incredible world**
 
 - 📄 Know about my experiences [I am currently a systems engineering student at USAC, learning new things every day about the world of programming, starting with small projects. Learn more about me.]
 
