@@ -76,18 +76,16 @@ My fascination with technology bridges the worlds of programming and cybersecuri
 
 
 
-<a href="https://github.com/javieer24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/javieer24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" /></a>
 
 
 ## ⚡ Stats 
-
-
+</p>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=javieer24&show_icons=true&locale=en&layout=compact&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javieer24&show_icons=theme=transparent=true&locale=en&layout=compact" alt="javieer24 top languages" style="border: none; box-shadow: none;" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javieer24&langs_private=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieer24&langs_private=true&theme=transparent" alt="javieer24 stats" style="border: none; box-shadow: none;" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=javieer24&show_icons=true&locale=en&theme=transparent">
     <img src="https://github-readme-stats.vercel.app/api?username=javieer24&show_icons=true&locale=en&theme=transparent" alt="javieer24 stats" style="border: none; box-shadow: none;" />
