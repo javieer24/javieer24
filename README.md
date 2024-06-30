@@ -2,7 +2,7 @@
 Hi, I'm Javier Monjes
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/></h1>
 <div id="header" align="center">
-  <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
 <p align="center">Studying Systems Engineering</p>
