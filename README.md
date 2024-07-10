@@ -24,7 +24,7 @@ Hi, I'm Javier Monjes
 <a href="https://stackoverflow.com/users/20455582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20455582" height="30" width="40" /></a>
 
 
-My fascination with technology bridges the worlds of programming and cybersecurity. As I pursue my goal of becoming a Security Operations Center (SOC) Analyst, my programming background empowers me to dissect the intricacies of systems and grasp potential vulnerabilities. This repository serves as my digital playground, where I experiment with code, explore diverse programming languages, and refine my skills. Here, you'll find a glimpse into my programming journey and the ever-expanding knowledge I'm acquiring.
+My deep fascination with technology seamlessly bridges the realms of programming and cybersecurity. As I strive to become a Security Operations Center (SOC) Analyst, my programming expertise equips me to analyze system intricacies and identify potential vulnerabilities effectively. This repository serves as my digital playground, where I experiment with code, explore diverse programming languages, and refine my skills. Here, you'll find a reflection of my programming journey and the ever-expanding knowledge I am acquiring.
 
 
 <details open>
