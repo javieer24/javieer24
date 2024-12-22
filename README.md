@@ -64,7 +64,11 @@ My deep fascination with technology seamlessly bridges the realms of programming
 
 ## 👨‍💻 Repositories
 <p align="left">
+<a href="https://github.com/javieer24/Notas-Universidad"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=Notas-Universidad&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
 <a href="https://github.com/javieer24/202100081_EDD_Proyecto"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=202100081_EDD_Proyecto&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto1_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto1_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto2_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto2_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+<a href="https://github.com/javieer24/_IPC1_S12023_Prractica2_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=_IPC1_S12023_Prractica2_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
 
 
 ## Teamwork & Contributions
