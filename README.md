@@ -1,108 +1,196 @@
-<h1 align="center">
-Hi, I'm Javier Monjes
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/></h1>
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7b5ea7&height=180&section=header&text=Javier%20Monjes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Cybersecurity%20%7C%20Cloud%20Security&descAlignY=58&descColor=a0a0c0" width="100%"/>
+
 </div>
 
-<p align="center">Studying Systems Engineering</p>
+<div align="center">
 
-### 🧐 More About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-monjes-1039411bb)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javiermonjes24_)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20455582)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javieer24)
 
-- 📝 I am currently studying at Universidad de San Carlos de Guatemala.
-- 🖥 Further training:   Cybersecurity Administrator (SOC Analyst 1) at Intecap TICS
-- 💻Like any keen social analyst, I relish unraveling patterns and delving into fresh perspectives. But beyond the realm of data, I am also captivated by the intricacies of programming languages. This repository serves as my digital playground, where I experiment with code and uncover novel approaches that pique my curiosity and ignite my enthusiasm.
-- 🔬 I'm currently learning networking and cybersecurity.
+</div>
 
-- 🕵️‍♂️ Seeking to become a Soc Analyst
+---
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javiermonjes24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javiermonjes24_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/javier-monjes-1039411bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/javier-monjes-1039411bb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20455582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20455582" height="30" width="40" /></a>
+## 👨‍💻 Sobre mí
 
+```yaml
+nombre:        Javier Andrés Monjes Solórzano
+ubicacion:     Guatemala City, Guatemala 🇬🇹
+rol_actual:    SOC Analyst @ Myappsoftware S.A.
+universidad:   Ingeniería en Ciencias y Sistemas — USAC
+enfoque:       Cybersecurity · Cloud Security · SOC Operations
+formacion:     AWS Skill Builder · Microsoft Learn · MS Level Up
+aprendiendo:   Bug Bounty · AWS Security Specialty · Azure Security
+nicho:         Ciberseguridad accesible para LATAM 🌎
+```
 
-My deep fascination with technology seamlessly bridges the realms of programming and cybersecurity. As I strive to become a Security Operations Center (SOC) Analyst, my programming expertise equips me to analyze system intricacies and identify potential vulnerabilities effectively. This repository serves as my digital playground, where I experiment with code, explore diverse programming languages, and refine my skills. Here, you'll find a reflection of my programming journey and the ever-expanding knowledge I am acquiring.
+> *"En ciberseguridad, quien deja de aprender queda atrás."*  
+> Trabajo como analista SOC monitoreando incidentes en tiempo real —  
+> y fuera del trabajo sigo construyendo, estudiando y colaborando.
 
+---
 
-<details open>
- <summary><h2> 💻 Programming Languages</h2></summary>
-<p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" height="26" />
-</p>
-</details>
+## 🔐 Stack de Ciberseguridad
 
-<details open>
- <summary><h2> 📚 Frameworks and Libraries</h2></summary>
-<p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" height="26">
-</p>
-</details>
+<div align="center">
 
+![SOC](https://img.shields.io/badge/SOC_Operations-00e5ff?style=flat-square&logoColor=black)
+![SIEM](https://img.shields.io/badge/SIEM_Analysis-00e5ff?style=flat-square&logoColor=black)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-7b5ea7?style=flat-square&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-7b5ea7?style=flat-square&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure_Security-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kali-linux&logoColor=white)
 
-<details open>
- <summary><h2> ⌨ Development Tools</h2></summary>
-<p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="26">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" height="26" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="26">
-</p>
+</div>
 
-</details>
+---
 
-## 👨‍💻 Repositories
-<p align="left">
-<a href="https://github.com/javieer24/Notas-Universidad"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=Notas-Universidad&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/202100081_EDD_Proyecto"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=202100081_EDD_Proyecto&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto1_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto1_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto2_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto2_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/_IPC1_S12023_Prractica2_202100081"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=_IPC1_S12023_Prractica2_202100081&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+## 💻 Lenguajes & Tecnologías
 
+<div align="center">
 
-## Teamwork & Contributions
-<p align="left">
-<a href="https://github.com/DominicRuano/TutoriasIPC1"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominicRuano&repo=TutoriasIPC1&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/DominicRuano/informe4_practicas"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominicRuano&repo=informe4_practicas&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/-ORGA-Proyecto_G3"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=-ORGA-Proyecto_G3&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=IPC2_Proyecto2Diciembre_-Grupo8&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/javieer24/IPC2_Proyecto1Diciembre_-Grupo8"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=IPC2_Proyecto1Diciembre_-Grupo8&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+</div>
 
+---
 
+## 🚀 Proyecto Destacado
 
-<a href="https://github.com/javieer24?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" /></a>
+### InsightCluster — Segmentación de Clientes con ML No Supervisado
 
+> *OLC2 · Escuela de Vacaciones Diciembre 2025 · USAC · Grupo #19*
 
-## ⚡ Stats 
-</p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javieer24&langs_private=true&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieer24&langs_private=true&theme=transparent" alt="javieer24 stats" style="border: none; box-shadow: none;" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=javieer24&show_icons=true&locale=en&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api?username=javieer24&show_icons=true&locale=en&theme=transparent" alt="javieer24 stats" style="border: none; box-shadow: none;" />
-  </a>
-</p>
+Sistema completo de segmentación de clientes y análisis de reseñas usando **Machine Learning no supervisado**. Arquitectura Backend/Frontend separada, pipeline de datos *fail-safe* y exportación de reportes ejecutivos.
 
+```
+Python · Streamlit · scikit-learn · NLP (TF-IDF + Sentence-BERT) · PCA · ReportLab · pandas
+```
 
+| Componente | Detalle |
+|---|---|
+| 🧹 Limpieza de datos | Pipeline fail-safe con coerción automática, imputación y eliminación de outliers (IQR) |
+| 📝 NLP dual | TF-IDF clásico + Embeddings semánticos (Sentence-BERT `paraphrase-MiniLM-L6-v2`) |
+| 🤖 Modelos | K-Means y MiniBatch K-Means con hiperparámetros configurables desde UI |
+| 📊 Evaluación | 4 métricas: Inercia · Coef. Silueta · Calinski-Harabasz · Davies-Bouldin |
+| 🗺️ Visualización | Reducción dimensional PCA 2D + gráfico de distribución por segmento |
+| 📄 Exportación | CSV con segmentos asignados + reporte PDF profesional (ReportLab) |
 
-<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=javieer24&theme=transparent&border_radius=10&border=231a24" alt="GitHub Streak" /></p>
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-Franciscoj04/OLC2_2SEVD25_ML_19-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Franciscoj04/OLC2_2SEVD25_ML_19)
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=javieer24&theme=transparent"/></p>
+---
 
+## 📂 Proyectos propios
 
+<div align="center">
+
+<a href="https://github.com/javieer24/202100081_EDD_Proyecto">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=202100081_EDD_Proyecto&theme=react&bg_color=0d1117&title_color=00e5ff&hide_border=true&icon_color=7b5ea7&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/-ORGA-Proyecto_G3">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=-ORGA-Proyecto_G3&theme=react&bg_color=0d1117&title_color=00e5ff&hide_border=true&icon_color=7b5ea7&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto1_202100081">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto1_202100081&theme=react&bg_color=0d1117&title_color=00e5ff&hide_border=true&icon_color=7b5ea7&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/LFP_S2_2023_Proyecto2_202100081">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=LFP_S2_2023_Proyecto2_202100081&theme=react&bg_color=0d1117&title_color=00e5ff&hide_border=true&icon_color=7b5ea7&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/Notas-Universidad">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=Notas-Universidad&theme=react&bg_color=0d1117&title_color=00e5ff&hide_border=true&icon_color=7b5ea7&show_icons=true" width="300"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Colaboraciones & Teamwork
+
+<div align="center">
+
+<a href="https://github.com/DominicRuano/TutoriasIPC1">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominicRuano&repo=TutoriasIPC1&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/DominicRuano/informe4_practicas">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominicRuano&repo=informe4_practicas&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/-ORGA-Proyecto_G3">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=-ORGA-Proyecto_G3&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=IPC2_Proyecto2Diciembre_-Grupo8&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/javieer24/IPC2_Proyecto1Diciembre_-Grupo8">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=IPC2_Proyecto1Diciembre_-Grupo8&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+
+</div>
+
+<div align="center">
+<a href="https://github.com/javieer24?tab=repositories">
+<img alt="Todos los repositorios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20todos%20mis%20repositorios-0d1117?style=for-the-badge&logoColor=00e5ff&logo=repo&color=161B22"/>
+</a>
+</div>
+
+---
+
+## 📚 Formación continua
+
+| Plataforma | Área | Estado |
+|---|---|---|
+| 🟡 **AWS Skill Builder** | Cloud & Security | ✅ Activo |
+| 🔵 **Microsoft Learn** | Azure Security | ✅ Activo |
+| 🟢 **MS Level Up** | Microsoft Stack | ✅ Activo |
+| ⚪ **TryHackMe** | Bug Bounty / Ethical Hacking | 🔄 En progreso |
+| ⚪ **PortSwigger Web Academy** | Web Security | 🔄 En progreso |
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=javieer24&show_icons=true&theme=transparent&title_color=00e5ff&icon_color=7b5ea7&text_color=c0c0d0&border_color=2a2a3a&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieer24&layout=compact&theme=transparent&title_color=00e5ff&text_color=c0c0d0&border_color=2a2a3a&langs_count=8" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=javieer24&theme=transparent&border_radius=8&border=2a2a3a&ring=00e5ff&fire=7b5ea7&currStreakLabel=00e5ff" width="480"/>
+
+</div>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=javieer24&theme=transparent" width="300"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javieer24&theme=transparent" width="300"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5ea7,100:00e5ff&height=100&section=footer" width="100%"/>
+
+<sub>📍 Guatemala · 🔐 Cybersecurity · ☁️ Cloud · 🤖 ML · 🌎 Construyendo para LATAM</sub>
+
+</div>
