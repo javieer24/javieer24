@@ -74,26 +74,26 @@ nicho:         Ciberseguridad accesible para LATAM 🌎
 
 ## 🚀 Proyecto Destacado
 
-### InsightCluster — Segmentación de Clientes con ML No Supervisado
+### AWS-CCP Study Method — Plataforma de Estudio para AWS Cloud Practitioner
 
-> *OLC2 · Escuela de Vacaciones Diciembre 2025 · USAC · Grupo #19*
+> *Proyecto personal · AWS Skill Builder · 2025*
 
-Sistema completo de segmentación de clientes y análisis de reseñas usando **Machine Learning no supervisado**. Arquitectura Backend/Frontend separada, pipeline de datos *fail-safe* y exportación de reportes ejecutivos.
+Plataforma full-stack para preparar la certificación **AWS Cloud Practitioner**, construida con arquitectura real de producción: backend separado, Flask API, frontend interactivo y funciones Lambda desplegadas en AWS.
 
 ```
-Python · Streamlit · scikit-learn · NLP (TF-IDF + Sentence-BERT) · PCA · ReportLab · pandas
+Python · Flask · JavaScript · HTML/CSS · AWS Lambda · S3 · CloudFormation · YAML
 ```
 
 | Componente | Detalle |
 |---|---|
-| 🧹 Limpieza de datos | Pipeline fail-safe con coerción automática, imputación y eliminación de outliers (IQR) |
-| 📝 NLP dual | TF-IDF clásico + Embeddings semánticos (Sentence-BERT `paraphrase-MiniLM-L6-v2`) |
-| 🤖 Modelos | K-Means y MiniBatch K-Means con hiperparámetros configurables desde UI |
-| 📊 Evaluación | 4 métricas: Inercia · Coef. Silueta · Calinski-Harabasz · Davies-Bouldin |
-| 🗺️ Visualización | Reducción dimensional PCA 2D + gráfico de distribución por segmento |
-| 📄 Exportación | CSV con segmentos asignados + reporte PDF profesional (ReportLab) |
+| ☁️ AWS Lambda | Funciones reales desplegadas: `lambda_pedidos.py` y `lambda_s3.py` |
+| 🏗️ IaC | Stack definido con **CloudFormation** (`stack-ccp.yaml`) |
+| 🌐 Frontend | Interfaz interactiva HTML/JS para estudiar conceptos del CCP |
+| 🔌 Flask API | Backend desacoplado con endpoints REST (`flask-app/`) |
+| 📋 Documentación | Manual técnico completo + preguntas de práctica sobre Shared Responsibility Model |
+| 📁 Arquitectura | `backend/` · `flask-app/` · `frontend/` · `Documentation/` — separación clara de capas |
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-Franciscoj04/OLC2_2SEVD25_ML_19-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Franciscoj04/OLC2_2SEVD25_ML_19)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-javieer24/AWS--CCP_Study--Method-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/javieer24/AWS-CCP_-Study-Method-)
 
 ---
 
@@ -139,6 +139,9 @@ Python · Streamlit · scikit-learn · NLP (TF-IDF + Sentence-BERT) · PCA · Re
 </a>
 <a href="https://github.com/javieer24/IPC2_Proyecto1Diciembre_-Grupo8">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javieer24&repo=IPC2_Proyecto1Diciembre_-Grupo8&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
+</a>
+<a href="https://github.com/Franciscoj04/OLC2_2SEVD25_ML_19">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Franciscoj04&repo=OLC2_2SEVD25_ML_19&theme=react&bg_color=0d1117&title_color=7b5ea7&hide_border=true&icon_color=00e5ff&show_icons=true" width="300"/>
 </a>
 
 </div>
